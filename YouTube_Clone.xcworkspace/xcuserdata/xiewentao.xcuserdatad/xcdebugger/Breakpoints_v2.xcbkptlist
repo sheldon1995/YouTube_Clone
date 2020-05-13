@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E88CAC32-1E15-4460-8811-A75183465F5C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E931BFE-5990-404D-9965-F08974C58200"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YouTube_Clone/Controller/HomeController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "HomeController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACD48E7F-F7E5-4BD0-B45C-1E27E1DDC280"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YouTube_Clone/Controller/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "menuBar"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "ACD48E7F-F7E5-4BD0-B45C-1E27E1DDC280 - 51a1e793ab7c6d76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YouTube_Clone.HomeController.menuBar.getter : YouTube_Clone.MenuBar"
+                  moduleName = "YouTube_Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiewentao/Desktop/YouTube_Clone/YouTube_Clone/Controller/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "374">
+               </Location>
+               <Location
+                  uuid = "ACD48E7F-F7E5-4BD0-B45C-1E27E1DDC280 - da59755320bca07e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; YouTube_Clone.MenuBar in YouTube_Clone.HomeController.menuBar.getter : YouTube_Clone.MenuBar"
+                  moduleName = "YouTube_Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiewentao/Desktop/YouTube_Clone/YouTube_Clone/Controller/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "ACD48E7F-F7E5-4BD0-B45C-1E27E1DDC280 - 26de3b01589021da"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YouTube_Clone.HomeController.menuBar.setter : YouTube_Clone.MenuBar"
+                  moduleName = "YouTube_Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiewentao/Desktop/YouTube_Clone/YouTube_Clone/Controller/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "ACD48E7F-F7E5-4BD0-B45C-1E27E1DDC280 - 36be472c351dea5d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YouTube_Clone.HomeController.menuBar.modify : YouTube_Clone.MenuBar"
+                  moduleName = "YouTube_Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiewentao/Desktop/YouTube_Clone/YouTube_Clone/Controller/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "ACD48E7F-F7E5-4BD0-B45C-1E27E1DDC280 - 7d11f95e4cbd11c2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YouTube_Clone.HomeController.menuBar.modify : YouTube_Clone.MenuBar with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "YouTube_Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiewentao/Desktop/YouTube_Clone/YouTube_Clone/Controller/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "ACD48E7F-F7E5-4BD0-B45C-1E27E1DDC280 - 60446ddc44b92421"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YouTube_Clone.HomeController.init(collectionViewLayout: __C.UICollectionViewLayout) -&gt; YouTube_Clone.HomeController"
+                  moduleName = "YouTube_Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiewentao/Desktop/YouTube_Clone/YouTube_Clone/Controller/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "661">
+               </Location>
+               <Location
+                  uuid = "ACD48E7F-F7E5-4BD0-B45C-1E27E1DDC280 - 5d9e8b95938cfdae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YouTube_Clone.HomeController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; YouTube_Clone.HomeController"
+                  moduleName = "YouTube_Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiewentao/Desktop/YouTube_Clone/YouTube_Clone/Controller/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "ACD48E7F-F7E5-4BD0-B45C-1E27E1DDC280 - 47b299a816cf5835"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YouTube_Clone.HomeController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;YouTube_Clone.HomeController&gt;"
+                  moduleName = "YouTube_Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiewentao/Desktop/YouTube_Clone/YouTube_Clone/Controller/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "663">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
